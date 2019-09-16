@@ -6,4 +6,4 @@
 - The sensitivity analysis has been done to obtain the best model, and over 90% accuracy and IoU are achieved.
 - For engineering purpose, clustering methods are applied to compute the centroids of predicted points so that the GIS of the soft-story buildings' centroids can further direct to the addresses.  
 
-<div align=center><img width="800" height="480" src="https://github.com/sam75782008/3D-Deep-Learning/Data_Preparation.JPG"></div>
+<div align=center><img width="600" height="400" src="https://github.com/sam75782008/3D-Deep-Learning/Data_Preparation.JPG"/></div>
