@@ -5,3 +5,5 @@
 - The point-cloud datasets are classified as Soft-Story or Non-Soft-Story point, and the classification accuracy as well as intersection of union are utilized (IoU) to evaluate the trained PointNet.
 - The sensitivity analysis has been done to obtain the best model, and over 90% accuracy and IoU are achieved.
 - For engineering purpose, clustering methods are applied to compute the centroids of predicted points so that the GIS of the soft-story buildings' centroids can further direct to the addresses.  
+
+<div align=center><img width="800" height="480" src="https://github.com/sam75782008/3D-Deep-Learning/Data Preparation.JPG"/></div>
